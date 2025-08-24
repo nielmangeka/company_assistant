@@ -1,0 +1,55 @@
+{
+    "company_name":"PT. ABC Finance Group",
+    "year_founded": 2010,
+    "management": {
+        "comissioner": [
+            {
+                "name": "Michael Basely",
+                "position": "Chairperson of the Board of Commissioners"
+            },
+            {
+                "name": "Philipp Phil",
+                "position": "Comissioners"
+            },
+            {
+                "name": "Isaiah Gorce",
+                "position": "Comissioners"
+            }
+        ],
+        "director":[
+            {
+                "name" : "Greg Popcorn",
+                "position" : "President Director"
+            },
+            {
+                "name" : "Mark Marco",
+                "position" : "Director of Finance"
+            },
+            {
+                "name" : "Suzan Vanessa",
+                "position" : "Director of Marketing"
+            },
+            {
+                "name" : "Albert Cunh",
+                "position" : "Director of Information Technology"
+            }
+        ]
+    },
+    "total_user" : 1589626,
+    "npl_percentage" : 98.6,
+    "company_product": [
+        {
+            "product_name"  : "digital_payments",
+            "description"   : "Our payment solutions make it easy for businesses and consumers to make instant, secure, and cost-effective transactions, both domestically and internationally. From mobile payments to integrated point-of-sale systems, our solutions ensure a seamless experience across multiple platforms."
+        },
+        {
+            "product_name"  : "lending_credit_services",
+            "description"   : "Offers streamlined digital lending platforms that connect borrowers with lenders through efficient, data-driven decision-making. Our solutions enable quick, transparent, and flexible lending options, making it easier for individuals and businesses to access the capital they need."
+        },
+        {
+            "product_name"  : "wealth_management_investment",
+            "description"   : "Our advanced robo-advisory services help users make informed investment decisions with personalized recommendations tailored to their financial goals. With data analytics and AI-driven insights, users can build and manage diversified investment portfolios with ease."
+        }
+        
+    ]
+}
